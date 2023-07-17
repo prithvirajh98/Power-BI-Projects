@@ -1,4 +1,4 @@
-<b>The Power BI Dashbords consist of 3 reports. They are as follows:</b>
+<b>The Power BI Dashbord consist of 3 reports. They are as follows:</b>
 
 
 1. Target Line in Variance by Sales Person
