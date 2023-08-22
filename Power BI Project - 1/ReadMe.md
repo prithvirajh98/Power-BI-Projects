@@ -14,6 +14,6 @@
 
 
 
-3. Forcast Sales for next 3 months 
+3. Forecast Sales for next 3 months 
  ![Forcast Sales for next 3 months](https://github.com/prithvirajh98/Power-BI-Projects/assets/127682525/1b8e09aa-ef64-41a2-9024-0a3179a8d0fe)
 
