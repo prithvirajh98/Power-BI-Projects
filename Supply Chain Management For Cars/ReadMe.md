@@ -1,4 +1,4 @@
-![1  Home](https://github.com/user-attachments/assets/b009e80d-f998-4dff-be39-65344af49631)# Supply Chain Management For Cars
+# Supply Chain Management For Cars
 
 The Supply Chain Management for Cars Dashboard project focuses on providing actionable insights into order management, sales performance, and customer behavior for CargoSmart. This Power BI solution leverages data from MySQL and incorporates interactive visualizations to help supply chain stakeholders monitor KPIs and improve decision-making.
 
@@ -64,21 +64,20 @@ Conclusion
 The Supply Chain Management for Cars Dashboard is a robust solution for CargoSmart, empowering the supply chain team to track, analyze, and optimize operations efficiently. The intuitive visualizations and real-time integrations ensure better visibility into performance, enabling data-driven decision-making.
 
 ## 1. Home Page
-      
-      ![1  Home](https://github.com/user-attachments/assets/4a7c7d6f-5205-4eaa-9d88-ba5d55d83ade)
+![1  Home](https://github.com/user-attachments/assets/b009e80d-f998-4dff-be39-65344af49631)
 
 ## 2. Orders
       
-      ![2  Orders](https://github.com/user-attachments/assets/953ee5a8-1a7a-46a1-b45a-8db3f95b5965)
+![2  Orders](https://github.com/user-attachments/assets/953ee5a8-1a7a-46a1-b45a-8db3f95b5965)
 
 ## 3. Sales
 
-      ![3  Sales](https://github.com/user-attachments/assets/16a59a86-1aec-44bd-ae9b-8a49bca72a3a)
+![3  Sales](https://github.com/user-attachments/assets/16a59a86-1aec-44bd-ae9b-8a49bca72a3a)
 
 ## 4. Customer Overview
 
-      ![4  Customer Overview](https://github.com/user-attachments/assets/b537c817-d1b3-4744-9d4e-9ad62b5c63ec)
+![4  Customer Overview](https://github.com/user-attachments/assets/b537c817-d1b3-4744-9d4e-9ad62b5c63ec)
 
 ## 5. Data Model
 
-      ![5  Data Model](https://github.com/user-attachments/assets/e1ceb080-7c83-4d4a-973a-e18f95d0720e)
+![5  Data Model](https://github.com/user-attachments/assets/e1ceb080-7c83-4d4a-973a-e18f95d0720e)
